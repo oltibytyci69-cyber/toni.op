@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="sq">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="TONI O.P. – kompani me përvojë në ndërtim, restaurim, renovim dhe konservim të objekteve të trashëgimisë kulturore në Kosovë.">
+<meta property="og:title" content="TONI O.P. | Ndërtim · Restaurim · Renovim">
+<meta property="og:description" content="Ndërtim, restaurim, renovim dhe konservim i trashëgimisë kulturore në Kosovë.">
+<meta property="og:type" content="website">
+<title>TONI O.P. | Ndërtim · Restaurim · Renovim</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="#home" aria-label="TONI O.P.">
+      <span class="brand-logo brand-logo-dark"><img src="assets/logo-white.png" alt="TONI O.P."></span>
+      <span class="brand-logo brand-logo-light"><img src="assets/logo.png" alt="TONI O.P."></span>
+    </a>
+    <button class="menu" id="menuBtn" type="button" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="navlinks" id="navLinks" aria-label="Primary navigation">
+      <a href="#home" data-nav="home"></a>
+      <a href="#about" data-nav="about"></a>
+      <a href="#services" data-nav="services"></a>
+      <a href="#projects" data-nav="projects"></a>
+      <a href="#heritage" data-nav="heritage"></a>
+      <a href="#contact" data-nav="contact"></a>
+      <button class="lang" id="langBtn" type="button">EN</button>
+    </nav>
+  </div>
+</header>
+
+<main id="home">
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-grid">
+    <div class="hero-panel">
+      <div class="hero-est">EST. 2009</div>
+      <div class="hero-copy">
+        <h1 id="hero-title"></h1>
+        <p id="hero-description"></p>
+        <div class="hero-actions">
+          <a class="cta" href="#projects" id="hero-projects-cta"></a>
+          <a class="cta secondary" href="#contact" id="hero-contact-cta"></a>
+        </div>
+      </div>
+      <div class="hero-drawing" aria-hidden="true"><span></span><span></span><span></span><span></span><b>TONI O.P.</b></div>
+    </div>
+    <div class="hero-image">
+      <img src="assets/images/hero/brick-restoration.jpg" alt="Muraturë tradicionale me hark dhe dritare druri" fetchpriority="high">
+    </div>
+  </div>
+</section>
+
+<section class="section stats-section"><div class="container stats" id="statsGrid"></div></section>
+
+<section class="section" id="about"><div class="container about about-editorial">
+  <div class="about-copy">
+    <div class="eyebrow" id="about-eyebrow"></div>
+    <h2 id="about-title"></h2>
+    <p id="about-description"></p>
+  </div>
+  <div class="about-image"><img src="assets/images/project-7/02.png" id="about-image" alt=""></div>
+</div></section>
+
+<section class="section" id="services"><div class="container">
+  <div class="section-head"><div><div class="eyebrow" id="services-eyebrow"></div><h2 id="services-title"></h2></div><p id="services-description"></p></div>
+  <div class="services services-six" id="servicesGrid"></div>
+</div></section>
+
+<section class="section" id="projects"><div class="container">
+  <div class="section-head"><div><div class="eyebrow" id="projects-eyebrow"></div><h2 id="projects-title"></h2></div></div>
+  <div class="projects" id="projectGrid"></div>
+</div></section>
+
+<section class="section heritage" id="heritage"><div class="container heritage-grid">
+  <div><div class="eyebrow" id="heritage-eyebrow"></div><h2 id="heritage-title"></h2><p id="heritage-description"></p></div>
+  <div class="heritage-list" id="heritageList"></div>
+</div></section>
+
+<section class="section contact-section" id="contact"><div class="container contact">
+  <div>
+    <div class="eyebrow" id="contact-eyebrow"></div>
+    <p id="contact-description"></p>
+  </div>
+  <div>
+    <div class="contact-item"><small id="phone-label"></small><a href="tel:+38349855318">049 855 318</a></div>
+    <div class="contact-item"><small>Email</small><a href="mailto:info@toni-ks.com">info@toni-ks.com</a></div>
+    <div class="contact-item"><small id="location-label"></small><div id="location-text"></div></div>
+    <div class="contact-item"><small id="facebook-label"></small><a id="facebook-link" href="https://www.facebook.com/profile.php?id=100086092396702" target="_blank" rel="noopener noreferrer">TONI OP</a></div>
+  </div>
+</div></section>
+</main>
+
+<footer class="footer"><div class="container footer-inner">
+  <div><strong>TONI O.P.</strong><span id="footer-tagline"></span><br><span>© 2026 TONI O.P. · </span><span id="footer-rights"></span></div>
+  <div id="footer-location"></div>
+</div></footer>
+
+<div class="modal" id="projectModal" aria-modal="true" role="dialog" aria-hidden="true">
+  <div class="modal-inner">
+    <div class="modal-top">
+      <div><div class="eyebrow" id="modal-eyebrow"></div><h2 id="modalTitle"></h2><div class="modal-meta" id="modalMeta"></div></div>
+      <button class="close" id="closeModal" type="button" aria-label="Close">×</button>
+    </div>
+    <p class="modal-copy" id="modalCopy"></p>
+    <div class="gallery" id="modalGallery"></div>
+  </div>
+</div>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="lightbox-close" id="lightboxClose" type="button" aria-label="Close image">×</button>
+  <button class="lightbox-nav prev" id="lightboxPrev" type="button" aria-label="Previous image">‹</button>
+  <figure><img id="lightboxImage" alt=""><figcaption id="lightboxCaption"></figcaption></figure>
+  <button class="lightbox-nav next" id="lightboxNext" type="button" aria-label="Next image">›</button>
+</div>
+
+<noscript><div class="noscript">JavaScript është i çaktivizuar. Përmbajtja kryesore e faqes kërkon JavaScript për navigimin dhe galeritë.</div></noscript>
+<script src="content.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
