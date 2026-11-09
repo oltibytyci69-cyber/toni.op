@@ -314,7 +314,7 @@ window.TONI_CONTENT = {
       "description": "Ndërhyrjet konservuese dhe restauruese në Kullën e Ymer Pogës në Rogovë, Gjakovë.",
       "description_en": "Conservation and restoration interventions at Ymer Poga Tower in Rogovë, Gjakova.",
       "images": [
-        "assets/images/project-4/cover.jpeg",
+        "assets/images/project-4/new-cover.jpeg",
         "assets/images/project-4/02.jpeg",
         "assets/images/project-4/03.jpeg"
       ]
@@ -389,8 +389,8 @@ window.TONI_CONTENT = {
       "id": 10,
       "title": "Mulliri Marali",
       "title_en": "Marali Mill",
-      "location": "Shkozë, Malishevë",
-      "location_en": "Shkozë, Malishevë",
+      "location": "Marali, Malishevë",
+      "location_en": "Marali, Malishevë",
       "category": "Restaurim",
       "category_en": "Restoration",
       "description": "Punimet restauruese në asetin e trashëgimisë kulturore.",
