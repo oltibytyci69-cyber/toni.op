@@ -94,8 +94,8 @@ window.TONI_CONTENT = {
         "en": "TONI O.P. is a company specialized in the cultural heritage, construction, renovation, as well as retail and wholesale sectors. The company carries out restoration and conservation projects on Kosovo's cultural heritage assets, as well as various educational, cultural and infrastructure projects, while providing professional services and solutions for public and private clients."
       },
       "image_alt": {
-        "sq": "Observatori dhe Planetariumi Kombëtar i Kosovës",
-        "en": "National Observatory and Planetarium of Kosovo"
+        "sq": "",
+        "en": ""
       }
     },
     "services": {
