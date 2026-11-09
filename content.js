@@ -219,8 +219,8 @@ window.TONI_CONTENT = {
     },
     "footer": {
       "tagline": {
-        "sq": "Zgjidhje për çdo projekt.",
-        "en": "Solutions for every project."
+        "sq": "TONI O.P. · Construction · Restoration · Renovation.",
+        "en": "TONI O.P. · Construction · Restoration · Renovation."
       },
       "rights": {
         "sq": "Të gjitha të drejtat e rezervuara.",
