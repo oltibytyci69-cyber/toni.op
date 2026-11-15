@@ -2,7 +2,7 @@
   const CONTENT = window.TONI_CONTENT;
   if (!CONTENT) return;
   const {site, projects} = CONTENT;
-  let currentLang = (() => { try { return localStorage.getItem('toniLang') || 'sq'; } catch(e) { return 'sq'; } })();
+  let currentLang = (() => { try { return localStorage.getItem('toniLang') || 'en'; } catch(e) { return 'en'; } })();
   let currentProject = null;
   let lightboxIndex = 0;
 
