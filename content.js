@@ -32,8 +32,8 @@ window.TONI_CONTENT = {
         "en": ""
       },
       "title": {
-        "sq": "Ndërtojmë të ardhmen, ruajmë trashëgiminë.",
-        "en": "Building the future, preserving heritage."
+        "sq": "Projekte që krijojnë vlerë.",
+        "en": "Projects That Create Value."
       },
       "description": {
         "sq": "TONI O.P. bashkon ndërtimin, restaurimin, renovimin dhe kujdesin për trashëgiminë kulturore në Kosovë.",
