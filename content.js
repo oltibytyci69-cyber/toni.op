@@ -146,8 +146,8 @@ window.TONI_CONTENT = {
     },
     "projects": {
       "eyebrow": {
-        "sq": "Punimet tona",
-        "en": "Our work"
+        "sq": "Projektet tona",
+        "en": "Our projects"
       },
       "title": {
         "sq": "Projekte me vlerë të qëndrueshme.",
