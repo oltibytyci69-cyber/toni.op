@@ -40,7 +40,7 @@
 
     $('#contact-eyebrow').textContent = t(site.contact.eyebrow);
     $('#contact-description').textContent = t(site.contact.description);
-    $('#phone-label').textContent = t(site.contact.phone_label);
+    
     $('#location-label').textContent = t(site.contact.location_label);
     $('#location-text').textContent = t(site.contact.location);
     $('#facebook-label').textContent = t(site.contact.facebook_label);
