@@ -199,7 +199,9 @@ window.TONI_CONTENT = {
         "sq": "Për pyetje rreth shërbimeve, projekteve ose bashkëpunimit, na kontaktoni drejtpërdrejt.",
         "en": "For questions about services, projects or collaboration, contact us directly."
       },
-      
+      "phone_label": {
+         "sq": "Telefon",
+        "en": "Phone"
       },
       "location_label": {
         "sq": "Lokacion",
