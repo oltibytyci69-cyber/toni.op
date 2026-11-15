@@ -208,8 +208,8 @@ window.TONI_CONTENT = {
         "en": "Location"
       },
       "location": {
-        "sq": "Kompleksi \"Prishtina FRYN"\, Kalabri, Prishtinë",
-        "en": "\"Prishtina FRYN"\ Complex, Calabria, Pristina"
+        "sq": "Kompleksi Prishtina FRYN, Kalabri, Prishtinë",
+        "en": "Prishtina FRYN Complex, Calabria, Pristina"
       },
       "facebook_label": {
         "sq": "Facebook",
