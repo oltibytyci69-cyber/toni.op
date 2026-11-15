@@ -36,8 +36,8 @@ window.TONI_CONTENT = {
         "en": "Projects That Create Value."
       },
       "description": {
-        "sq": "TONI O.P. bashkon ndërtimin, restaurimin, renovimin dhe kujdesin për trashëgiminë kulturore në Kosovë.",
-        "en": "TONI O.P. brings together construction, restoration, renovation and care for Kosovo's cultural heritage."
+        "sq": "TONI O.P. operon në fusha të ndryshme, duke ofruar zgjidhje në zhvillimin dhe realizimin e projekteve.",
+        "en": "TONI O.P. operates in various fields, offering solutions for the development and execution of projects."
       },
       "projects_cta": {
         "sq": "Shiko projektet →",
