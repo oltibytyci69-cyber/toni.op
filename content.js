@@ -200,8 +200,8 @@ window.TONI_CONTENT = {
         "en": "For questions about services, projects or collaboration, contact us directly."
       },
       "phone_label": {
-        "sq": "Telefon",
-        "en": "Phone"
+        "sq": "",
+        "en": ""
       },
       "location_label": {
         "sq": "Lokacion",
