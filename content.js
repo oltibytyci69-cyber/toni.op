@@ -208,8 +208,8 @@ window.TONI_CONTENT = {
         "en": "Location"
       },
       "location": {
-        "sq": "Kalabri, Prishtinë, Kosovë",
-        "en": "Kalabri, Prishtina, Kosovo"
+        "sq": "Kompleksi \"Prishtina FRYN"\, Kalabri, Prishtinë",
+        "en": "\"Prishtina FRYN"\ Complex, Calabria, Pristina"
       },
       "facebook_label": {
         "sq": "Facebook",
@@ -227,8 +227,8 @@ window.TONI_CONTENT = {
         "en": "All rights reserved."
       },
       "location": {
-        "sq": "Kalabri · Prishtinë · Kosovë",
-        "en": "Kalabri · Prishtina · Kosovo"
+        "sq": "Prishtinë · Kosovë",
+        "en": "Pristina · Kosovo"
       }
     }
   },
