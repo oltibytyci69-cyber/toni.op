@@ -359,12 +359,12 @@ window.TONI_CONTENT = {
       "id": 8,
       "title": "Fabrika e përpunimit të letrës",
       "title_en": "Paper Processing Factory",
-      "location": "Suhodoll, Graqanicë",
-      "location_en": "Suhodoll, Graqanicë",
+      "location": "Suhodoll, Graçanicë",
+      "location_en": "Suhodoll, Graçanicë",
       "category": "Ndërtim",
       "category_en": "Construction",
-      "description": "Ndërtimi i objektit rreth 8,000 m² i përfunduar për fabrikën e përpunimit të letrës.",
-      "description_en": "Construction of an approximately 8,000 m² facility completed for a paper processing factory.",
+      "description": "Ndërtimi i objektit rreth 8,000 m² i përfunduar për fabrikën e përpunimit të letrës TOP SOFT PAPERS SH.P.K.",
+      "description_en": "Construction of an approximately 8,000 m² facility, completed for the paper processing factory TOP SOFT PAPERS SH.P.K.",
       "images": [
         "assets/images/project-8/cover.jpg",
         "assets/images/project-8/02.jpg"
